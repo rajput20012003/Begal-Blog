@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top_section {
+    margin_top: -559px;
+    display: flex;
+    justify-content: space-between;
+}
+top_section h1{
+    font_size: 60px
+    font_weight: bold;
+    color: #1d1e4c
+    text_transformation: uppercase; 
+image_container {
+    border_radious: 100px;
+}
+image_container
+img {
+    width: 2358px
+    height: 1728px
+.container{
+   background-color: #FFFFF;
+    height : 2358px;
+    width: 1728px;
+    border: 10px solid "1d1e4c"
+}
+
+.content {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+
+
